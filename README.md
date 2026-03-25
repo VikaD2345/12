@@ -235,6 +235,9 @@ req.user = payload; // { sub, email, role, iat, exp }
 | image       | string | URL фотографии товара                 |
 
 ---
+<img width="1278" height="727" alt="image" src="https://github.com/user-attachments/assets/27ad1b15-9eb8-48c6-9761-ce85e7f8c5eb" />
+<img width="1224" height="723" alt="image" src="https://github.com/user-attachments/assets/77abab19-f8b7-45d2-890c-184388ac7c80" />
+
 
 # 🔄 Практическое занятие 9 — Refresh-токены
 
