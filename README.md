@@ -1,6 +1,3 @@
-URL,Страница,Доступ
-/,CatalogPage,Авторизованные
-/login,LoginPage,Все
-/register,RegisterPage,Все
-/products/:id,ProductPage,Авторизованные
-/profile,ProfilePage,Авторизованные
+Маршрут,Метод,Описание
+/api/auth/register,POST,Регистрация пользователя (хешируется пароль)
+/api/auth/login,POST,Вход в систему (сравнение хешей)
